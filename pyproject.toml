@@ -1,7 +1,7 @@
 [project]
-name = "flaskr"
+name = "healthmoney"
 version = "1.0.0"
-description = "Um aplicativo de blog feito com flask tutorial."
+description = "Um aplicativo de apoio para organização financeira."
 dependencies = [
     "flask",
     ]
